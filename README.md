@@ -2,4 +2,4 @@
 
 
 ## Technologies Used
-React Tailwind CSS Express JS Mongo DB
+<code>CSS</code>  <code>JavaScript</code>  <code>HTML</code>
