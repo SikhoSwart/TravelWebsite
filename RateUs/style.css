@@ -1,3 +1,4 @@
+/*----------Rate us section styling---------*/
 :root {
     --primary: hsl(225, 84%, 7%);
     --light-grey: hsl(214, 14%, 60%);
@@ -19,7 +20,7 @@ html, body {
 }
 
 body {
-    background: var(--very-dark-blue);
+    background: rgba(0, 0, 0, 0.918);
 }
 
 h2 {
@@ -137,13 +138,15 @@ p {
 
 .icon {
     width: fit-content;
-    height: 50px;
-    width: 50px;
+    height: 5px;
+    width: 5px;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-bottom: 15px;
 }
+
+
 
 /*------------------------Scroll Bar-----------------------*/
 ::-webkit-scrollbar {
