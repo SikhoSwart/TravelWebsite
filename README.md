@@ -7,7 +7,8 @@
 
 Triptastic is a travel/tourism website. It allows users to book travel packgaes and to book tours.
 
-![Uploading image.png…]()
+![image](https://github.com/SikhoSwart/TravelWebsite/assets/129541577/4c9504db-2eca-4693-b4a4-76a12ec40958)
+
 
 
 ### AUTHORS
