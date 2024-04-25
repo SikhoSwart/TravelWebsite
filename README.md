@@ -18,3 +18,6 @@ Sikholise Swartbooi <a href="https://www.linkedin.com/in/sinqobileswartbooi/">Li
 
 ### Technologies Used
 <code>CSS</code>  <code>JavaScript</code>  <code>HTML</code>
+
+### Licensing
+MIT License
