@@ -79,7 +79,7 @@ ul.menu {
 }
 
 
-/*-----PLACES Styling-------------*/
+/*-----PLACES Styling*/
 .places-text {
     text-align: center;
     margin-bottom: 50px;
@@ -147,4 +147,39 @@ ul.menu {
   .cards .cost {
     color: #690d0d;
     font-size: 20px;
+  }
+
+/*------------------responsive---------------------*/
+  @media all and (max-width: 1194px) {
+    .places .card-box p {
+      font-size: 14px;
+    }
+  }
+  @media all and (max-width: 1086px) {
+    .places .cards .text {
+      line-height: 40px;
+    }
+    .cards .text .h2 {
+      font-size: 12px;
+    }
+    .cards .img-card img {
+      height: 260px;
+    }
+  }
+  @media all and (max-width: 974px) {
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      grid-template-rows: repeat(6, 1fr);
+      grid-gap: 20px;
+    }
+    .card {
+      width: 300px;
+      height: 500px;
+      margin: auto;
+    }
+    .cards .text {
+      padding: 5px;
+      font-family: Barlow Condensed;
+    }
   }
