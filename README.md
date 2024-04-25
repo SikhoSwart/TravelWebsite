@@ -14,6 +14,8 @@ I deployed it using [netlify.com](https://www.netlify.com/))
 
 ![image](https://github.com/SikhoSwart/TravelWebsite/assets/129541577/4c9504db-2eca-4693-b4a4-76a12ec40958)
 
+### Usage
+This website is for travellers looking for an effiicent travel agency in the pocket.
 
 ### This website does not require installation🚫, it is only accessable online.
 
