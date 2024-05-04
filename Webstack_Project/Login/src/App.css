@@ -1,0 +1,27 @@
+.App {
+  text-align: left;
+}
+
+body{
+  background-color: #575050;
+}
+
+.container{
+  background-color: #D1D0D0;
+  font-family: monospace;
+  margin: 20px auto;
+  border: 2px solid #D1D0D0;
+  border-radius: 10px;
+}
+
+.btn{
+  background-color: #5C4E4E;
+  border: 2px solid #5C4E4E;
+  border-radius: 10px;
+}
+
+.container input{
+  background-color: #988686;
+  border: 2px solid #988686;
+  border-radius: 5px;
+}
