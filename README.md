@@ -33,7 +33,7 @@ Sikholise Swartbooi <a href="https://www.linkedin.com/in/sinqobileswartbooi/">Li
 Third-Party services
 1. Unsplash - stock photos
 2. Fontawesome - social media icons
-3. Netlify - Website deployment
+3. Vercel - Website deployment
 4. Google Maps API
 
 ### Licensing
