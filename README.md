@@ -5,6 +5,10 @@
 
 ![logo](https://github.com/SikhoSwart/TravelWebsite/assets/129541577/8a3344ec-6121-4d18-afd2-a68f3c9c510a)
 
+Login For the triptatstic website
+![image](https://github.com/SikhoSwart/TravelWebsite/assets/129541577/9d481d15-e580-4dd5-91c4-4e2537a14630)
+
+
 Triptastic is a travel/tourism website. It allows users to book travel packages and to book tours.
 It is an online platform where individuals can access a wide range of travel services and information. With the aim of providing seamless travel experiences, a travel agency website offers services such as flight and hotel bookings, tour packages, visa assistance, and travel insurance. 
 
